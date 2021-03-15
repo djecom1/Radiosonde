@@ -1,0 +1,24 @@
+# Frequency in Mhz (format nnn.nnn)
+# Type (4=RS41, R=RS92, 6=DFM normal, DFM-06, 9=DFM inverted, DFM-09, D=DFM, M=M10, 2=M20)
+#
+400.000 9 + Test(FR)
+401.500 4 - Santander(ES)
+402.000 M + Nimes(FR)
+402.800 4 + Cuneo(IT)
+403.000 6 + Ajactio(FR)
+403.010 6 + Canjuers(FR)
+404.200 4 + Rome(IT)
+404.500 4 - Payern(CH)
+404.500 M - Bourges(FR)
+404.789 9 + Frejus1(FR)
+404.800 4 + Milan(IT)
+405.000 R + Frejus2(FR)
+401.199 M - Trappes(FR)
+405.789 9 + Pegomas(FR)
+405.100 4 - Lindenberg
+405.700 4 - Bergen
+405.900 4 - Bergen_2
+405.100 4 - Meppen_2
+405.300 4 - Essen
+405.500 2 - Essen_2
+# end

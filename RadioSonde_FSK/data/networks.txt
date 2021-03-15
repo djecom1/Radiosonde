@@ -1,0 +1,6 @@
+    Radiosonde
+    Radiosonde
+    SSIDSMARTPHONE
+    passwifi
+    SSIDBOX
+    passwifi
